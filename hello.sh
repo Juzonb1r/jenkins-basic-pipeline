@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "New change from developer"
+echo "Hello from Jim and New change from developer"
 date
 whoami
 pwd
