@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "Hello from GitHub"
+echo "New change from developer"
 date
 whoami
 pwd
